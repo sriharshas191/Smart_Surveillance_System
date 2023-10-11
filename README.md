@@ -8,4 +8,7 @@ Proposed Solution :
 
 Activity detection is a major problem in smart videos surveillance. It is a fundamental problem in computer vision. The traditional CCTV approach requires human interaction to work properly. It only stores the recorded footage which leads to extra effort while extracting particular information. It doesn’t provides many features like motion detection, capturing etc.,  so to overcome these drawbacks we introduced a new system which implements features like motion detection, capturing, rectangle feature to focus on specified object in surveillance area, we detect any persons passed though the surveillance area and store their images too....hence converting traditional CCTV to smart CCTV. If a particular user wants to change their requirement they need to use other applications based on their requirement. We provided user friendly application that contains existing feature with extra features that we had implemented. Thus, it will reduce space complexity as well as time for the user.
 
-
+Team Details:
+1. S S Sri Harsha
+2. Sk Md Vasim
+3. P Sai Naga Saketh
