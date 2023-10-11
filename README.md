@@ -1,4 +1,4 @@
-                                                                                                Smart Surveillance System
+Smart Surveillance System
 
 Problem Statement :
 
